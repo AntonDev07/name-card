@@ -53,6 +53,8 @@ h1 {
 }
 .profile-pic img {
     border:4px solid #fff;
+	max-width: 120px;
+	height: auto;
     border-radius: 82px;
 	    transition: 0.5s all;
     -webkit-transition: 0.5s all;
